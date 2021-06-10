@@ -1,0 +1,93 @@
+
+  ul {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
+  ul li {
+    list-style: none;
+  }
+  ul li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(11, 2, 36);
+    font-size: 0.875em;
+    text-decoration: none;
+    padding: 1em;
+    white-space: nowrap;
+    letter-spacing: 1px;
+  }
+  ul li a:hover {
+    border-bottom: 3px solid #fff;
+  }
+  .flex1 {
+    display: flex;
+    color: rgb(24, 216, 190);
+    padding: 100px 150px 150px 100px;
+    position: center;
+     background: linear-gradient(to bottom, #16222a, #4e4376);
+  }
+  .flex1 h1 {
+    font-size: 325%;
+    text-align: center;
+  }
+  .flex1 p {
+    font-weight: 400%;
+    font-family: serif;
+    font-size: 150%;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+  .flex2 {
+    display: flex;
+    color: rgb(19, 1, 11);
+    padding: 100px 150px 150px 100px;
+    position: center;
+   
+    
+     background: linear-gradient(to bottom, #dfec1d, #20fc0c, #64502c);
+  }
+  .flex2 h1 {
+    font-size: 325%;
+    text-align: center;
+  }
+  .flex2 p {
+    font-weight: 400%;
+    font-family: serif;
+    font-size: 150%;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+  .flex1 {
+    display: flex;
+    color:rgb(238, 15, 164);
+    padding-left: 3%;
+    padding-right: 3%;
+    position: center;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-weight: 1000;
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(243, 10, 99);
+    margin-bottom: 20px;
+  }
+  body {
+    background-image: url("suresh raina.jpg") no-repeat  center;
+  }
+  .header {
+    padding: 80px;
+    height: 100vh;
+    background: url("suresh raina2.jpg") no-repeat  center;
+    background-size: cover;
+    position: relative;
+  }
+  
+  
+
+
+  
+  
